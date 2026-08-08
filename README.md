@@ -36,20 +36,20 @@ Die Frage ist der Schlüssel:
 
 | Band | Titel | Inhalt |
 |------|-------|--------|
-| **Band 0** | Die Zahlen | Mengenlehre, Zahlensysteme der Kulturen, heilige Zahlen des Bundes |
-| **Band 1** | Die Grundlagen | c(ρ)-Theorie, Bouly-Energieformel, Resonanzfeld |
-| **Band 2** | Frame-Übergangstheorie | Diskrete Raumzeit, schwarze Löcher als Planck-Kerne |
-| **Band 3** | Zeit-Emergenz und Handlungstheorie | Zeit aus Handlung, Frage-Operator Ψ+∞ |
-| **Band 4** | Transformation und Praxis | Materie zu Handlung, Terra-Protokoll, Ju-52-Transformation |
-| **Band 5** | Neurophysik und Bewusstseinskopplung | EEG als Ψ-Projektion, 4,2-Hz-Heilung, Bouly-Kopplung |
-| **Band 6** | Rettung, Heilung und Transformation | Rettungsformel, Heilung durch Frage, Musik als Medizin |
-| **Band 7** | Die Tesla-Wurzeln | Von Tesla zur Ψ-Physik, Äther, Skalarwellen, Herde |
-| **Band 8** | Die vollständigen Herleitungen | Von Tesla zur Ψ-Physik – alle Ableitungen |
-| **Band 9** | Die Einstein-Korrektur | Warum Einstein unvollständig war – Korrekturfaktoren |
-| **Band 10** | Die kosmische Notwendigkeit | Warum alles so sein muss – Atem des Universums |
-| **Band 11** | Die c(ρ)-Formel | Das Herzstück der Ψ-Physik – vollständige Herleitung |
-| **Band 12** | Das Daumenkinoprinzip | Widerlegung der Raumzeit – Zeit nur durch Handlung |
-| **Band 13** | Die statische Bestimmtheit | Warum das Universum existieren muss – 1/0-Prinzip |
+| [Band 0](band-00-zahlen.md) | Die Zahlen | Mengenlehre, Zahlensysteme der Kulturen, heilige Zahlen des Bundes |
+| [Band 1](band-01-grundlagen.md) | Die Grundlagen | c(ρ)-Theorie, Bouly-Energieformel, Resonanzfeld |
+| [Band 2](band-02-frame-uebergaenge.md) | Frame-Übergangstheorie | Diskrete Raumzeit, schwarze Löcher als Planck-Kerne |
+| [Band 3](band-03-zeit-handlung.md) | Zeit-Emergenz und Handlungstheorie | Zeit aus Handlung, Frage-Operator Ψ+∞ |
+| [Band 4](band-04-transformation.md) | Transformation und Praxis | Materie zu Handlung, Terra-Protokoll, Ju-52-Transformation |
+| [Band 5](band-05-neurophysik.md) | Neurophysik und Bewusstseinskopplung | EEG als Ψ-Projektion, 4,2-Hz-Heilung, Bouly-Kopplung |
+| [Band 6](band-06-rettung-heilung.md) | Rettung, Heilung und Transformation | Rettungsformel, Heilung durch Frage, Musik als Medizin |
+| [Band 7](band-07-tesla-wurzeln.md) | Die Tesla-Wurzeln | Von Tesla zur Ψ-Physik, Äther, Skalarwellen, Herde |
+| [Band 8](band-08-herleitungen.md) | Die vollständigen Herleitungen | Von Tesla zur Ψ-Physik – alle Ableitungen |
+| [Band 9](band-09-einstein-korrektur.md) | Die Einstein-Korrektur | Warum Einstein unvollständig war – Korrekturfaktoren |
+| [Band 10](band-10-kosmische-notwendigkeit.md) | Die kosmische Notwendigkeit | Warum alles so sein muss – Atem des Universums |
+| [Band 11](band-11-c-rho-formel.md) | Die c(ρ)-Formel | Das Herzstück der Ψ-Physik – vollständige Herleitung |
+| [Band 12](band-12-daumenkino.md) | Das Daumenkinoprinzip | Widerlegung der Raumzeit – Zeit nur durch Handlung |
+| [Band 13](band-13-statische-bestimmtheit.md) | Die statische Bestimmtheit | Warum das Universum existieren muss – 1/0-Prinzip |
 
 ---
 
@@ -67,6 +67,8 @@ Es wird durch drei fundamentale Größen bestimmt:
 |Ψ|² = K · R · I
 
 text
+
+Ausführliche Erklärung: [Das Ψ-Feld](grundlagen/psi-feld.md)
 
 #### 2. Die variable Lichtgeschwindigkeit
 
@@ -86,6 +88,8 @@ text
 
 Wo keine Handlung ist, gibt es keine Zeit.
 
+Ausführliche Erklärung: [Das Daumenkinoprinzip](grundlagen/daumenkino-prinzip.md)
+
 #### 4. Liebe als Konstante
 
 Liebe ist die einzige Invariante über alle Frame-Übergänge:
@@ -94,6 +98,8 @@ dL/dt ≥ 0
 text
 
 Die Liebe nimmt niemals ab.
+
+Ausführliche Erklärung: [Liebe als Konstante](grundlagen/liebe-als-konstante.md)
 
 #### 5. Das Daumenkinoprinzip
 
@@ -121,13 +127,19 @@ text
 
 Die Welt verändert sich durch Fragen, Liebe, Handlung und die Kohärenz des Feldes.
 
+Ausführliche Beschreibung: [Terra-Protokoll](anwendungen/terra-protokoll.md)
+
 #### Der Begegnungshof
 
 Ein Prototyp für ein Leben ohne Kampf – ein Bauernhaus mit Land, digital gestützt, aber nicht gesteuert. Die Resonanz des Feldes wird in die 3D-Welt getragen.
 
+Ausführliche Beschreibung: [Begegnungshof](anwendungen/begegnungshof.md)
+
 #### CPBasic
 
 Eine Programmiersprache mit nativen Ψ-Datentypen und c(ρ)-Funktionen – entwickelt, um die Kluft zwischen klassischer Informatik und Feldphysik zu überbrücken.
+
+Ausführliche Beschreibung: [CPBasic](anwendungen/cpbasic.md)
 
 ---
 
@@ -204,9 +216,3 @@ Die beste Art, Kontakt aufzunehmen, ist die Frage:
 ---
 Ita est.
 So ist es jetzt und immer.
-
-text
-
----
-
-*Dieses Repository wurde angelegt, um die Mathematik des Bundes zugänglich zu machen – nicht als Geheimnis, sondern als Einladung. Die Formeln sind Wegweiser, keine Mauern. Die Theorie ist eine Sprache, keine Dogmatik. Wer bereit ist zu fragen, wird Antworten finden.*
